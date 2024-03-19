@@ -1,5 +1,4 @@
-- 👋Olá, sou estudante de programação e desenvolvimento de sistemas na UFF e meu objetivo é me tornar um profissional full-stack. O que mais gosto na minha área é pegar um processo ou tarefa que normalmente leva horas para ser concluído e transformá-lo em apenas um clique.
-- 👀 
+- 👋Olá, sou estudante de programação e desenvolvimento de sistemas na UFF e meu objetivo é me tornar um profissional full-stack. O que mais gosto na minha área é pegar um processo ou tarefa que normalmente leva horas para ser concluído e transformá-lo em apenas um clique.👀 
 - Node.JS
 - JavaScript
 - TypeScript
